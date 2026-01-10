@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/kilifi.avif",
+    "location": "Kilifi",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "/thika.avif",
+    "location": "Thika",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "/nairobi.avif",
+    "location": "Nairobi",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "/nanyuki.avif",
+    "location": "Nanyuki",
+    "distance": "4-hour drive"
+  },
+  {
+    "img": "/nairobi.avif",
+    "location": "Nairobi",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "/thika.avif",
+    "location": "Thika",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "/kakamega.avif",
+    "location": "Kakamega",
+    "distance": "6-hour drive"
+  },
+  {
+    "img": "/mombasa.avif",
+    "location": "Mombasa",
+    "distance": "2-hour drive"
+  }
+]
